@@ -14,7 +14,7 @@ setup(
     description="jokenpo game",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/thiagonebuloni/jokenpo"
+    url="https://github.com/thiagonebuloni/jokenpo",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',

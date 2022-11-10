@@ -6,6 +6,7 @@ The package jokenpo is used to: - Simple jokenpo game implemented in Python and 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+For now, the package is only in Pypi Test repository 
 
 ```bash
 pip install jokenpo
